@@ -1,7 +1,6 @@
-<h1 align="center">Merhaba 👋, ben Emirhan</h1>
 ### Hi there 👋, My name is Emirhan
 #### Front-End Developer         
-![Front-End Developer         ](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface-improvement-illustration_277904-4428.jpg?w=1060)
+![Front-End Developer         ](![github](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface-improvement-illustration_277904-4428.jpg?w=1060))
 
 Yazılım alanında kendimi sürekli geliştirmekteyim. Her zaman yeni teknolojilere ve trendlere açığım. JavaScript, HTML ve CSS gibi temel araçlarla birlikte, React.js gibi modern framework'leri de kullanarak projeler geliştiriyorum.
 
