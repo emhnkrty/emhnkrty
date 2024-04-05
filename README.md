@@ -12,7 +12,7 @@ Eğitim: Üretken Akademi ileri seviye yazılım kursunda 2 aylık sürede
         olarak Bursa  Belediyesi için  bursadaki nöbetçi eczaneleri görebilmek için  
          React.js kullanarak bir site tasarladım.
 
-Skills: 
+<p align="center">Skills:</p>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" height="40">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" height="40">
