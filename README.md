@@ -12,15 +12,15 @@ Eğitim: Üretken Akademi ileri seviye yazılım kursunda 2 aylık sürede
         olarak Bursa  Belediyesi için  bursadaki nöbetçi eczaneleri görebilmek için  
          React.js kullanarak bir site tasarladım.
 
-<p align="center">Skills:</p>
+Skills: 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" alt="JavaScript" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bootstrap.svg" alt="Bootstrap" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" alt="React.js" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/redux.svg" alt="Redux" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/visualstudiocode.svg" alt="Visual Studio Code" height="40">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" height="40" style="filter: invert(0%)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" height="40" style="filter: invert(0%)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" alt="JavaScript" height="40" style="filter: invert(0%)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bootstrap.svg" alt="Bootstrap" height="40" style="filter: invert(0%)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" alt="React.js" height="40" style="filter: invert(0%)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/redux.svg" alt="Redux" height="40" style="filter: invert(0%)">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/visualstudiocode.svg" alt="Visual Studio Code" height="40" style="filter: invert(0%)">
 </p>
 
 <p align="center">
