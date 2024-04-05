@@ -14,13 +14,20 @@ Eğitim: Üretken Akademi ileri seviye yazılım kursunda 2 aylık sürede
 
 Skills: 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" alt="JavaScript" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bootstrap.svg" alt="Bootstrap" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" alt="React.js" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/redux.svg" alt="Redux" height="40">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/visualstudiocode.svg" alt="Visual Studio Code" height="40">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/html5.svg" alt="HTML5" height="40"><br>
+    HTML5
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/css3.svg" alt="CSS3" height="40"><br>
+    CSS3
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/javascript.svg" alt="JavaScript" height="40"><br>
+    JavaScript
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/bootstrap.svg" alt="Bootstrap" height="40"><br>
+    Bootstrap
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/react.svg" alt="React.js" height="40"><br>
+    React.js
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/redux.svg" alt="Redux" height="40"><br>
+    Redux
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/visualstudiocode.svg" alt="Visual Studio Code" height="40"><br>
+    Visual Studio Code
 </p>
 
 <p align="center">
