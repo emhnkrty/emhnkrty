@@ -19,7 +19,7 @@ React.js kullanarak bir site tasarladım.
  
 <div align="center"> 
   <a href="mailto:e.kurtay@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/emirhan-kurtay-672952122" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
