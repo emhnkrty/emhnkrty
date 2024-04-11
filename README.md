@@ -10,7 +10,10 @@
 
 <div align="center">
  
- 
+ Yazılım alanında kendimi sürekli olarak geliştiriyorum. Her zaman yeni teknolojilere ve trendlere açıklar var. JavaScript, HTML ve CSS gibi temel araçlarla birlikte, React.js gibi modern framework'leri de kullanarak projeler geliştiriyorum.
+
+Eğitim: Üretken Akademi ileri seviye yazılım kursunda 2 ay boyunca her hafta bir proje çıkartarak tecrübe kazandım.Bitirme projesi olarak Bursa Belediyesi için bursadaki nöbetçi eczaneleri görebilmek için
+React.js kullanarak bir site tasarladım.
 
  </div>
  
