@@ -35,7 +35,7 @@ React.js kullanarak bir site tasarladım.
 <h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,nodejs,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,typescript,tailwind,vscode,github,git" />
 
 </div>
 
