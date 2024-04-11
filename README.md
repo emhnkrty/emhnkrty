@@ -10,7 +10,7 @@
 
 <div align="center">
  
- Yazılım alanında kendimi sürekli olarak geliştiriyorum. Her zaman yeni teknolojilere ve trendlere açıklar var. JavaScript, HTML ve CSS gibi temel araçlarla birlikte, React.js gibi modern framework'leri de kullanarak projeler geliştiriyorum.
+ Yazılım alanında kendimi sürekli olarak geliştiriyorum. Her zaman yeni teknolojilere ve trendlere ilgim var. JavaScript, HTML ve CSS gibi temel araçlarla birlikte, React.js gibi modern framework'leri de kullanarak projeler geliştiriyorum.
 
 Eğitim: Üretken Akademi ileri seviye yazılım kursunda 2 ay boyunca her hafta bir proje çıkartarak tecrübe kazandım.Bitirme projesi olarak Bursa Belediyesi için bursadaki nöbetçi eczaneleri görebilmek için
 React.js kullanarak bir site tasarladım.
@@ -23,6 +23,9 @@ React.js kullanarak bir site tasarladım.
   </a>
   <a href="www.linkedin.com/in/emirhan-kurtay-672952122" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:e.kurtay@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
 </div>
